@@ -20,7 +20,6 @@ I'm Giorgi Nefaridze, 17 years old form Georgia, who loves to learn new things.
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB`">
   <img src="https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white">
 </div>
-  ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
 
 
 
@@ -35,6 +34,7 @@ I'm Giorgi Nefaridze, 17 years old form Georgia, who loves to learn new things.
 
 
 
+  ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
 
 
 
