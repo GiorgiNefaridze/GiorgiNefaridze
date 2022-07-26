@@ -26,6 +26,8 @@ I'm Giorgi Nefaridze, 17 years old form Georgia, who loves to learn new things.
   <img src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white">
 </div>
 
+
+
 ### Tools that I own
 
 <div style="display: inline-block">
@@ -34,5 +36,8 @@ I'm Giorgi Nefaridze, 17 years old form Georgia, who loves to learn new things.
   
   <img src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white">
 </div>
+
+
+
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=GiorgiNefaridze&theme=gruvbox)
