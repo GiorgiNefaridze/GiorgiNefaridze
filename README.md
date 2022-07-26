@@ -1,17 +1,38 @@
-### Hi there 👋
+<div align="center">
+ <h1>hi There 🖐</h1>
+</div> 
 
-<!--
-**GiorgiNefaridze/GiorgiNefaridze** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Giorgi Nefaridze, 17 years old form Georgia, who loves to learn new things.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: https://www.linkedin.com/in/giorgi-nefaridze-25b313246/
-- ⚡ Fun fact: there is no fun facts 😖
--->
+* 🌱 I’m currently learning **React JS**
+* 🧾 I also have **[portoflio](https://giorginefaridze.netlify.app/)**, where you can see all my projects
+* 💼 How to reach me: [![LinkedIn](https://www.linkedin.com/in/giorgi-nefaridze-25b313246/)
+* ⚡ Fun fact: there is no fun facts 😖
+
+### Technologies that I own
+
+<div style="display: inline-block">
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
+  <img src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white">
+  <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E">
+  <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E">
+  <img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white">
+  <img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white">
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB`">
+  <img src="https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white">
+  
+  <img src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white">
+</div>
+
+### Tools that I own
+
+<div style="display: inline-block">
+  <img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white">
+  <img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white">
+  
+  <img src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white">
+</div>
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=GiorgiNefaridze&theme=gruvbox)
