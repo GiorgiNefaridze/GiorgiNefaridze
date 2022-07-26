@@ -2,7 +2,7 @@
  <h1>Hi There <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" height="28px" alt="hi"></h1>
 </div> 
 
-I'm Giorgi Nefaridze, 17 years old form Georgia, who loves to learn new things.
+I'm Giorgi Nefaridze 17 years old, from Georgia. Who loves to learn new things.
 
 
 * 🌱 I’m currently learning **React JS**
