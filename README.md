@@ -5,7 +5,7 @@
 I'm Giorgi Nefaridze 17 years old, from Georgia. Who loves to learn new things.
 
 
-* 🌱 I’m currently learning **React JS** in depth
+* 🌱 I’m currently learning **Express JS/ MongoBD** in depth
 * 🧾 I also have **[portoflio](https://giorginefaridze.netlify.app/)**, where you can see all my projects
 * 💼 How to reach me: [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5.svg?&style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/giorgi-nefaridze-25b313246/)
 * ⚡ Fun fact: there is no fun facts 😖
